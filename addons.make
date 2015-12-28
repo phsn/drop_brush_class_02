@@ -1,2 +1,2 @@
 ofxOsc
-ofxMidi
+ofxCoreMIDI
